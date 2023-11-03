@@ -1,4 +1,4 @@
-# Title: Sinhala Word2Vec Model with Custom Stopwords and Lemmatization
+# Sinhala Word2Vec Model with Custom Stopwords and Lemmatization
 
 ## Description:
 Our Sinhala Word2Vec model is a powerful natural language processing tool designed to process and understand the Sinhala language. Leveraging the capabilities of NLTK, Gensim, and a custom Sinhala stopwords and lemmatization package, this model allows users to explore and analyze the semantic relationships between words in the Sinhala language.
